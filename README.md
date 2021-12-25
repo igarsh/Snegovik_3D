@@ -2,4 +2,4 @@
 
 OpenGL playground. C++Builder5 project
 Run exe file to see the result.
-User Arrow keys to rotate the white bastard
+Use Arrow keys to rotate the white bastard
